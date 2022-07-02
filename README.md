@@ -1,5 +1,5 @@
 # Chat-application
-## The application should keep track of these entities.
+## The application  keep track of these entities.
 ### User : 
 the user has (UserID ,mobile number , password , First name, Last name ,ChatRooms, ChatRoomInfo ,Contacts which are other users. , Stories , User Profile description )
 ###  ChatRoom : the ChatRoom has (ChatRoomID, List of Users (2 in case of one to one
